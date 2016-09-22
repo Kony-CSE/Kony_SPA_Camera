@@ -1,0 +1,27 @@
+<properties>
+    <attributes name="project.type" value="js"/>
+    <attributes name="appversionkey" value="1.0.0"/>
+    <attributes name="mwportkey" value="80"/>
+    <attributes name="winmangotiletitlekey" value="SPACamera"/>
+    <attributes name="andtargetsdkkey" value="2.3.3"/>
+    <attributes name="isNewAppWithRespectToAndroidPackageName" value="true"/>
+    <attributes name="mwaddrkey" value="10.10.3.43"/>
+    <attributes name="iphonebundleidentifierkey" value="com.kony.SPACamera"/>
+    <attributes name="createdgaversion" value="5.6.0"/>
+    <attributes name="build" value="debug"/>
+    <attributes name="currentgaversion" value="6.5.2.GA_v201607251036_r18"/>
+    <attributes name="appidkey" value="SPACamera"/>
+    <attributes name="ioscheckboxcorrection" value="true"/>
+    <attributes name="mwhttpsportkey" value="443"/>
+    <attributes name="apppackagekey" value="com.orgname.SPACamera"/>
+    <attributes name="iosrespectimagesizecorrection" value="true"/>
+    <attributes name="iostextboxpaddingcorrection" value="true"/>
+    <attributes name="vendornamekey" value="KonyLabs"/>
+    <attributes name="marginsincludedinwidgetcontainerweight" value="true"/>
+    <attributes name="iospopuptransitioncorrection" value="true"/>
+    <attributes name="appnamekey" value="SPACamera"/>
+    <attributes name="win6xj2meonlysupported" value="false"/>
+    <attributes name="APPLICATION_THEME" value="default"/>
+    <attributes name="SELECTED_THEME" value="default"/>
+    <attributes name="startupformkey" value="frmCamera"/>
+</properties>
